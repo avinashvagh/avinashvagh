@@ -11,7 +11,7 @@ As a Full Stack Developer, I have a strong foundation in web development and am 
 I am passionate about staying up to date with the latest industry trends and exploring new technologies. In my free time, I enjoy learning about new technologies and techniques that can help me improve my skills and advance my career. I am excited to continue growing and developing as a Full Stack Developer, and I am committed to delivering exceptional results for my clients. If you have any questions or would like to discuss a project, please don't hesitate to reach out!
 
 * 🌍  I'm based in Gujarat, India
-* ✉️  You can contact me at [avivagh0001@gmail.com](mailto:coefeewithav@gmail.com)
+* ✉️  You can contact me at [avivagh0001@gmail.com](mailto:avivagh0001@gmail.com)
 * 🚀  I'm currently working on [Nextyron](http://www.linkedin.com/company/nextyron)
 * 🧠  I'm learning Docker
 * 🤝  I'm open to collaborating on Startup ideas !
