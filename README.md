@@ -9,7 +9,7 @@ Full Stack Developer
 *   🌍  I'm based in India
 *   🖥️  See my portfolio at [MyPortfolio](http://bio.link/avinashvagh)
 *   ✉️  You can contact me at [coefeewithav@gmail.com](mailto:coefeewithav@gmail.com)
-*   🚀  I'm currently working on [Remote US Jobs](https://remoteusjobs.co)  & [AI Startups](https://aistartupshq.beehiiv.com/subscribe) | Micro Exit [Remote Profile](https://remoteprofile.beehiiv.com/subscribe)
+*   🚀  I'm currently working on [Remote US Jobs](https://remoteusjobs.co)  & [TwindiePoint](https://www.twindiepoint.com/subscribe) | Micro Exit [Remote Profile](https://remoteprofile.beehiiv.com/subscribe)
 *   🧠  I'm learning Next.js
 *   🤝  I'm open to collaborating on Indie-Hacking Interesting Projects
 *   ⚡  I love Travelling, Trekking, Anime, Spotiy And X<a href="https://www.github.com/avinashvagh" target="_blank" rel="noreferrer">
