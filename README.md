@@ -5,7 +5,7 @@ Software Developer
 ------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://bio.link/avinashvagh)
+* 🖥️  See my portfolio at [MyPortfolio](http://bio.link/avinashvagh) & visit my [ai mvp agency](https://www.aizecs.com/) to work with me.
 * ✉️  You can contact me at [coefeewithav@gmail.com](mailto:coefeewithav@gmail.com)
 * 🚀  I'm currently working on [Startup Newsletter](http://www.twindiepoint.com/)
 * 🧠  I'm learning Next.js
