@@ -5,6 +5,7 @@ Indie-Hacker
 ------------------
 
 * 🌍  I'm based in India
+* 🚀  I'm building [NoonLaunch](https://noonlaunch.com), a weekly product launch platform that helps AI tools, SaaS and software products get discovered on Google and cited by AI engines.
 * 🖥️  See my portfolio at [MyPortfolio](https://avinashvagh.com) & visit my [ai mvp agency](https://www.aizecs.com/) to work with me.
 * ✉️  You can contact me at [coefeewithav@gmail.com](mailto:coefeewithav@gmail.com)
 * 🚀  I'm currently working on GTM.
